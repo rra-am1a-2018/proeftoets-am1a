@@ -33,6 +33,14 @@
       <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
       <td>10+</td>
     </tr>
+    <tr>
+      <th scope="row">320656</th>
+      <td>Dirk</td>
+      <td>dirkvansoest</td>
+      <td>plaatje</td>
+      <td><a href=".\img\slaap.png">mijn homepage</a></td>
+      <td>20</td>
+    </tr>
   </tbody>
 </table>
 
