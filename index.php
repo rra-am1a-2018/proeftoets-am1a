@@ -33,22 +33,22 @@
       <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
       <td>10+</td>
     </tr>
-        <tr>
-          <th scope="row">322085</th>
-          <td>Wob</td>
-          <td>Fatpike</td>
-          <td><img src="./img/FatpikeAvatar.png" height="40px" width="40px"></td>
-          <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
-          <td>∞</td>
-        </tr>
-        <tr>
-        <th scope="row">310426</th>
-        <td>Richard</td>
-        <td>RiDiCage</td>
-        <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
-        <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
-        <td>∞</td>
-      </tr>
+    <tr>
+      <th scope="row">322085</th>
+      <td>Wob</td>
+      <td>Fatpike</td>
+      <td><img src="./img/FatpikeAvatar.png" height="40px" width="40px"></td>
+      <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
+      <td>∞</td>
+    </tr>
+    <tr>
+      <th scope="row">310426</th>
+      <td>Richard</td>
+      <td>RiDiCage</td>
+      <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
+      <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
+      <td>∞</td>
+    </tr>
     <tr>
       <th scope="row">1</th>
       <td>Robin</td>
