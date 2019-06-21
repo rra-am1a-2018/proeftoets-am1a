@@ -12,7 +12,7 @@
       <th scope="row">1</th>
       <td>edgar</td>
       <td>niks</td>
-      <img src="./img/steengit.svg" />
+      <img src="./img/steen.jpg" />
     </tr>
        </tr>
        <a class="btn btn-primary" href="./index.php" role="button">index</a>

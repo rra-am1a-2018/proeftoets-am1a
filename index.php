@@ -57,6 +57,12 @@
       <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
       <td>20</td>
 >>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
+<th scope="row">320656</th>
+      <td>edgar</td>
+      <td>kalachian</td>
+      <td><img src="img\steen.jpg" width="35px" height="35px"></td>
+      <td><a href="edgar-edgartje2002.php">mijn homepage</a></td>
+      <td>20</td>
     </tr>
   </tbody>
 </table>
