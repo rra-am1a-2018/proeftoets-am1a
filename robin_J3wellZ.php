@@ -38,7 +38,8 @@ echo "1 grote vuurbal jonge";
             <td>quick selfie</td>
         </tr>
         <tr>
-            <td><img src="./img/robin.jpg"></td>
+            <td><a href="./index.php">Click here to go back to index</td>
+            <td><----- CLICK</td>
         </tr>
     </tbody>
 </table>
