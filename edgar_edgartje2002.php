@@ -12,7 +12,7 @@
       <th scope="row">1</th>
       <td>edgar</td>
       <td>niks</td>
-      <img src="./img/.svg" />
+      <img src="./img/steen.svg" />
     </tr>
     
     </tr>
