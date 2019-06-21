@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+<?php
+
+
+?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -12,30 +16,37 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Proeftoets-AM1A</h1>
+  
 
-    <table class="table table-hover">
+<html>
+<table class="table table-dark">
   <thead>
     <tr>
-      <th scope="col">llnr</th>
       <th scope="col">Voornaam</th>
-      <th scope="col">Githubnaam</th>
-      <th scope="col">Avatar (40x40)</th>
-      <th scope="col">link</th>
-      <th scope="col">Cijfer voor pagina</th>
+      <th scope="col">Tussenvoegsel</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Hobby</th>
+      <th scope="col">Avatar</th>
+      <th scope="col">Button</th>
+
+
+
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Arjan</td>
-      <td>rra-am1a-2018</td>
-      <td>plaatje</td>
-      <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
-      <td>10+</td>
+      <th scope="row">Mohamed</th>
+      <td>Mansour</td>
+      <td>Ndiaye</td>
+      <td>Basketballen</td>
+      <td><<img src="https://avatars1.githubusercontent.com/u/45031142?s=460&v=4"></td>
+      <td><button type="button" href="index.php" class="btn btn-primary">Ga naar index</button>
+</td>
     </tr>
+    
   </tbody>
 </table>
+</html>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -44,31 +55,3 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </body>
 </html>
-
-
-
-
-
-
-
-=======
-<?php
-  echo "Hallo Git World!";
-  echo "Dit is nieuwe code voor de tweede commit";
-  echo "Dit is de derde commit";
-  echo "Dit wordt de vijfde commit";
-  echo "Dit is de zevende commit";
-  echo "Dit is de achtste commit";
-  echo "Dit is de negende commit";
-  echo "Dit is de tiende commit";
-  echo "Dit is de elfde commit";
-  echo "Dit is de twaalfde commit";
-  echo "Dit is de dertiende commit";
-  echo "Dit is de veertiende commit";
-
-  echo "Dit is een vijftiende commit";
-  echo "Dit is de zestiende commit";
-  echo "Pull request";
-  echo "Test";
-?>
->>>>>>> b3b4ac5320567ce145d6da0e2d91a1ea64d2bb73
