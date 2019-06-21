@@ -29,6 +29,10 @@ echo "1 grote vuurbal jonge";
             <td>Lastname:</td>
             <td>Hoeven</td>
         </tr>
+        <tr>
+            <td>Hobby's:</td>
+            <td>Niet deze toets / Netflix</td>
+        </tr>
     </tbody>
 </table>
 </body>
