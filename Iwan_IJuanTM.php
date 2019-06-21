@@ -47,7 +47,7 @@
                             <tr>
                                 <td>Henk</td>
                                 <td>van</td>
-                                <td></td>
+                                <td>Kaas</td>
                                 <td></td>
                                 <td><img src="./img/"></td>
                             </tr>
