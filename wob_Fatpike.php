@@ -27,11 +27,11 @@
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
+          <td>Wob</td>
+          <td></td>
+          <td>Jelsma</td>
+          <td>Van alles en nog wat</td>
+          <td><img src="./img/FatpikeAvatar.png"></td>
         </tr>
       </tbody>
     </table>
