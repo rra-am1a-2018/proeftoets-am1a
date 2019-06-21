@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -34,6 +37,7 @@
       <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
       <td>10+</td>
     </tr>
+<<<<<<< HEAD
         <tr>
           <th scope="row">322085</th>
           <td>Wob</td>
@@ -44,12 +48,24 @@
         </tr>
     <tr>
 <<<<<<< HEAD
+=======
+    <tr>
+      <th scope="row">322085</th>
+      <td>Wob</td>
+      <td>Fatpike</td>
+      <td><img src="./img/FatpikeAvatar.png" height="40px" width="40px"></td>
+      <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
+      <td>∞</td>
+    </tr>
+    <tr>
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
       <th scope="row">1</th>
       <td>Robin</td>
       <td>J3wellZ</td>
       <td>picture m8</td>
       <td><a href="./robin_J3wellZ.php">mijn homepage</a></td>
       <td>10+</td>
+<<<<<<< HEAD
 =======
       <th scope="row">320656</th>
       <td>Dirk</td>
@@ -64,6 +80,15 @@
       <td><img src="img\steen.jpg" width="35px" height="35px"></td>
       <td><a href="edgar-edgartje2002.php">mijn homepage</a></td>
       <td>20</td>
+=======
+    <tr>
+      <th scope="row">320656</th>
+      <td>Dirk</td>
+      <td>dirkvansoest</td>
+      <td><img src="img\slaap.png" width="50px" height="50px"></td>
+      <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
+      <td>20</td>
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
     </tr>
   </tbody>
 </table>
@@ -75,6 +100,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </body>
+<<<<<<< HEAD
 </html>
 
 
@@ -295,3 +321,6 @@
 
 </html>
 >>>>>>> 0cac2aa25f32847c5936bceab08509ebbb59366e
+=======
+</html>
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
