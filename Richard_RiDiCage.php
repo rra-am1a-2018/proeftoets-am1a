@@ -47,12 +47,11 @@
                     <td>van de</td>
                     <td>Kooij</td>
                     <td>Muziek maken</td>
-                    <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="5%" /></td>
+                    <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="25px" /></td>
                 </tr>
             </tbody>
         </table>
-        
-        <button type="button" class="btn btn-secondary btn-link">Go back to Index</button>
+        <a class="btn btn-secondary" href="./index.php" role="button">Go back to Index</a>
     </div>
 
 
