@@ -69,7 +69,7 @@
         <tr>
         <th scope="row">1</th>
         <td>Olivier</td>
-        <td>OGiskes/td>
+        <td>OGiskes</td>
         <td><img src="./img/avatar.png" alt="kataang" width="40px" height="40px"></td>
         <td><a href="./Olivier.OGiskes.php">mijn homepage</td>
         <td>11</td>
