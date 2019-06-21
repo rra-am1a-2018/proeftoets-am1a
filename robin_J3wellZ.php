@@ -33,6 +33,10 @@ echo "1 grote vuurbal jonge";
             <td>Hobby's:</td>
             <td>Niet deze toets / Netflix</td>
         </tr>
+        <tr>
+            <td><img src="./img/robin.jpg"></td>
+            <td>quick selfie
+        </tr>
     </tbody>
 </table>
 </body>
