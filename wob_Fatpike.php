@@ -13,6 +13,17 @@
     <title>Hello, world!</title>
   </head>
   <body>
+  <!-- Table -->
+  <table class="table table-hover table-light">
+      <thead class=thead-dark>
+        <tr>
+          <th scope="col">Voornaam</th>
+          <th scope="col">Tussenvoegsel</th>
+          <th scope="col">Achternaam</th>
+          <th scope="col">Hobby's</th>
+          <th scope="col">Avatar</th>
+        </tr>
+      </thead>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
