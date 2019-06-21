@@ -9,6 +9,12 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
         <title>Hello, world!</title>
+
+        <style>
+            span{
+                font-size:30px;
+            }
+        </style>
     </head>
     <body>
 
@@ -34,7 +40,7 @@
                     <td>rra-am1a-2018</td>
                     <td><img src="./img/a.jpg" width="40px" height="40px" /></td>
                     <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
-                    <td>10+</td>
+                    <td>10</td>
                 </tr>
 
 
@@ -54,7 +60,7 @@
                     <td>RiDiCage</td>
                     <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
                     <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
-                    <td>∞</td>
+                    <td><b><span>∞</span></b></td>
                 </tr>
 
 
@@ -71,7 +77,7 @@
                 <tr>
                     <th scope="row">320656</th>
                     <td>Dirk</td>
-                    <td>dirkvansoest</td>
+                    <td>DirkvanSoest</td>
                     <td><img src="./img/slaap.png" width="40px" height="40px" /></td>
                     <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
                     <td>20</td>
