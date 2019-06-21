@@ -35,7 +35,10 @@ echo "1 grote vuurbal jonge";
         </tr>
         <tr>
             <td><img src="./img/robin.jpg"></td>
-            <td>quick selfie
+            <td>quick selfie</td>
+        </tr>
+        <tr>
+            <td><img src="./img/robin.jpg"></td>
         </tr>
     </tbody>
 </table>
