@@ -41,6 +41,14 @@
           <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
           <td>∞</td>
         </tr>
+    <tr>
+      <th scope="row">320656</th>
+      <td>Dirk</td>
+      <td>dirkvansoest</td>
+      <td>plaatje</td>
+      <td><a href=".\img\slaap.png">mijn homepage</a></td>
+      <td>20</td>
+    </tr>
   </tbody>
 </table>
 
@@ -59,6 +67,7 @@
 
 
 
+<<<<<<< HEAD
 <?php
   echo "Hallo Git World!";
   echo "Dit is nieuwe code voor de tweede commit";
@@ -78,3 +87,5 @@
   echo "Pull request";
   echo "Test";
 ?>
+=======
+>>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
