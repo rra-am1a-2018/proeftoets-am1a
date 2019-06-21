@@ -12,13 +12,12 @@
         </thead>
         <tbody>
             <tr>
-                <td></td>
+                <td>Olivier</td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
             </tr>
-            
         </tbody>
     </table>
 ?>
