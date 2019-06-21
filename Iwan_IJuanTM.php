@@ -46,7 +46,7 @@
                             </tr>
                             <tr>
                                 <td>Henk</td>
-                                <td></td>
+                                <td>van</td>
                                 <td></td>
                                 <td></td>
                                 <td><img src="./img/"></td>
