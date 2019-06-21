@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<?php
+echo 'Leven doet pijn';
+?>
+=======
+>>>>>>> 23886a625dd7441ad88842fc9bd011501d87790d
 <!doctype html>
 <html lang="en">
 
@@ -44,6 +50,13 @@
                                 <td>Computeren</td>
                                 <td><img src="./img/IJuanTM.png"></td>
                             </tr>
+                            <tr>
+                                <td>Henk</td>
+                                <td>van</td>
+                                <td>Kaas</td>
+                                <td>Touwtje springen</td>
+                                <td><img src="./img/Henk.jpg"></td>
+                            </tr>
                         </tbody>
 
                     </table>
@@ -53,6 +66,9 @@
         </div>
 
 
+<<<<<<< HEAD
+</html>
+=======
 
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -62,3 +78,4 @@
         </body>
 
 </html>
+>>>>>>> 23886a625dd7441ad88842fc9bd011501d87790d
