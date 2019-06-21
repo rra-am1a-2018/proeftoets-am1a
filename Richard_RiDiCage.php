@@ -51,6 +51,8 @@
                 </tr>
             </tbody>
         </table>
+        
+        <button type="button" class="btn btn-secondary btn-lg">Secondary</button>
     </div>
 
 
