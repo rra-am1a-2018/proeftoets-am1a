@@ -1,10 +1,13 @@
 html, body {
     background-color: slategray;
     color: gold;
-    font-size: 2rem;
 }
 
 .container {
-    top: 50%;
-    left: 50%;
+    text-align: center;
+}
+
+img {
+    height: 25px;
+    width: 25px;
 }
