@@ -26,8 +26,8 @@
   <tbody>
     <tr>
       <th scope="row">Sven</th>
-      <td>Mark</td>
-      <td>Otto</td>
+      <td></td>
+      <td>Oudakker</td>
       <td>@mdo</td> 
       <td>    </td>
     </tr>
