@@ -31,7 +31,7 @@
         <th scope="row">1</th>
         <td>Arjan</td>
         <td>rra-am1a-2018</td>
-        <td><img src="./img/nyan.gif"></td>
+        <td><img src="./img/nyan.gif" height="40px" width="40px"></td>
         <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
         <td>10+</td>
       </tr>
