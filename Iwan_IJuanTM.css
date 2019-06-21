@@ -6,3 +6,8 @@ html, body {
 .container {
     text-align: center;
 }
+
+img {
+    height: 25px;
+    width: 25px;
+}
