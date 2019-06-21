@@ -20,7 +20,7 @@
         <div class="row">
             <div class="col-12">
                 <h1>Hello There</h1>
-                <button href="./index.php" type="button" class="btn btn-dark btn-lg">Terug naar Index</button>
+                <a href="./index.php" class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Terug naar Index</a>
             </div>
         </div>
 
