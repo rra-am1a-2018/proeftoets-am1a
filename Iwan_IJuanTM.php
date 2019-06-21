@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 <?php
 echo 'Leven doet pijn';
 ?>
-=======
 <!doctype html>
 <html lang="en">
 
@@ -34,4 +32,3 @@ echo 'Leven doet pijn';
 </body>
 
 </html>
->>>>>>> 7f81898a60806ba35ac4a20b4c65eb16c80bbac3
