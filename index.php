@@ -109,7 +109,7 @@
                     <td>Jordy</td>
                     <td>JordyLegemaat</td> 
                     <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./jordy_jordilegemaat.php">mijn homepage</a></td>
+                    <td><a href="./jordy_jordylegemaat.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
             </tbody>
