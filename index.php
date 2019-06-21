@@ -29,7 +29,7 @@
             <th scope="row">1</th>
             <td>Arjan</td>
             <td>rra-am1a-2018</td>
-            <td>plaatje<img src="./img/a.jpg" width="40px" height="40px"></td>
+            <td><img src="./img/a.jpg" width="40px" height="40px" />></td>
             <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
             <td>10+</td>
         </tr>
@@ -37,7 +37,7 @@
             <th scope="row">322085</th>
             <td>Wob</td>
             <td>Fatpike</td>
-            <td><img src="./img/FatpikeAvatar.png" width="40px" height="40px"></td>
+            <td><img src="./img/FatpikeAvatar.png" width="40px" height="40px" />></td>
             <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
             <td>∞</td>
         </tr>
@@ -61,15 +61,15 @@
             <th scope="row">320656</th>
             <td>Dirk</td>
             <td>dirkvansoest</td>
-            <td><img src="./img/slaap.png" width="40px" height="40px">></td>
+            <td><img src="./img/slaap.png" width="40px" height="40px" /></td>
             <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
             <td>20</td>
         </tr>
         <tr>
             <th scope="row">326650</th>
             <td>Iwan</td>
-            <td>IJuanTM/td>
-            <td><img src="./img/IJuanTM.png" width="40px" height="40px"></td>
+            <td>IJuanTM</td>
+            <td><img src="./img/IJuanTM.png" width="40px" height="40px" /></td>
             <td><a href="./Iwan_IJuanTM.php">Naar Iwan's Site</a></td>
             <td>11+</td>
         </tr>
@@ -77,7 +77,7 @@
             <th scope="row">1</th>
             <td>Sven</td>
             <td>WebDevSven</td> 
-            <td><img src="./img/a.jpg" width="40px" height="40px">></td>
+            <td><img src="./img/a.jpg" width="40px" height="40px" /></td>
             <td><a href="./sven_webdevsven.php">mijn homepage</a></td>
             <td>10+</td>
         </tr>
@@ -85,16 +85,8 @@
             <th scope="row">1</th>
             <td>Jordi</td>
             <td>jordilegemaat</td> 
-            <td><img src="./img/steen.jpg" width="40px" height="40px">></td>
+            <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
             <td><a href="./jordi_jordilegemaat.php">mijn homepage</a></td>
-            <td>10+</td>
-        </tr>
-        <tr>
-            <th scope="row">1</th>
-            <td>Dirk</td>
-            <td>dirk_dirkvansoest</td> 
-            <td><img src="./img/Henk.jpg" width="40px" height="40px">></td>
-            <td><a href="./dirk_dirk_dirkvansoest.php">mijn homepage</a></td>
             <td>10+</td>
         </tr>
       </tbody>
