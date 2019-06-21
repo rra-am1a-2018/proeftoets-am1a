@@ -10,6 +10,18 @@
         3. achternaam
         4. hobby
         5. avatar
+
+        kijk welke user jij bent
+        git config user.name
+
+        zie alleen jouw eigen commits
+        git log --online --author="Richard"
+
+        git checkout -b tijdreis_richard
+
+        git branch
+
+        git push -u orgin tijdreis_richard
     ';
     */
 ?>
