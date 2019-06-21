@@ -44,6 +44,13 @@
                                 <td>Computeren</td>
                                 <td><img src="./img/IJuanTM.png"></td>
                             </tr>
+                            <tr>
+                                <td>Henk</td>
+                                <td>van</td>
+                                <td>Kaas</td>
+                                <td>Touwtje springen</td>
+                                <td><img src="./img/Henk.jpg"></td>
+                            </tr>
                         </tbody>
 
                     </table>
