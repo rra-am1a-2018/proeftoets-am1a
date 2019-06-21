@@ -15,6 +15,7 @@
 </head>
 
 <body>
+
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -25,7 +26,9 @@
 
         <div class="row">
             <div class="col-12">
+
                 <table class="table">
+
                     <thead>
                         <tr>
                             <th scope="col">Voornaam</th>
@@ -35,6 +38,7 @@
                             <th scope="col">Avatar</th>
                         </tr>
                     </thead>
+
                     <tbody>
                         <tr>
                             <td>Iwan</td>
@@ -51,7 +55,9 @@
                             <td><img src="./img/Henk.jpg"></td>
                         </tr>
                     </tbody>
+
                 </table>
+
             </div>
         </div>
     </div>

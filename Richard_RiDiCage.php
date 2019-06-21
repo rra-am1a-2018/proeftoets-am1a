@@ -10,6 +10,30 @@
         3. achternaam
         4. hobby
         5. avatar
+
+        kijk welke user jij bent
+        git config user.name
+
+        zie alleen jouw eigen commits
+        git log --online --author="Richard"
+
+        maak een nieuwe branch
+        git checkout -b tijdreis_richard
+
+        kijk in welke branch je zit
+        git branch
+
+        show de branches online
+        git remote show origin
+
+        show branch
+        git branch
+
+        ga naar master branch
+        git checkout master
+
+        branch gooi je online op github
+        git push -u orgin tijdreis_richard
     ';
     */
 ?>
@@ -27,10 +51,12 @@
         body{
             background: rgb(20,20,20);
         }
+
     </style>
   </head>
   <body>
     <div class="container">
+        <h1>Richard</h1>
         <table class="table table-dark">
             <thead>
                 <tr>
@@ -49,6 +75,16 @@
                     <td>Muziek maken</td>
                     <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="25px" /></td>
                 </tr>
+                <!--
+                    <tr>
+                        <th scope="row">310426</th>
+                        <td>Richard</td>
+                        <td>RiDiCage</td>
+                        <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
+                        <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
+                        <th>∞</th>
+                    </tr>
+                -->
             </tbody>
         </table>
         <a class="btn btn-secondary" href="./index.php" role="button">Go back to Index</a>
