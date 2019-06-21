@@ -51,8 +51,7 @@
                 </tr>
             </tbody>
         </table>
-        
-        <button type="button" class="btn btn-secondary btn-link">Go back to Index</button>
+        <a class="btn btn-secondary" href="./index.php" role="button">Go back to Index</a>
     </div>
 
 
