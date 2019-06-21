@@ -16,7 +16,7 @@
   <h1>Proeftoets-AM1A</h1>
 
   <table class="table table-hover">
-    <thead>
+    <thead class=thead-dark>
       <tr>
         <th scope="col">llnr</th>
         <th scope="col">Voornaam</th>
