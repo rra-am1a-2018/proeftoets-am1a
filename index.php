@@ -41,22 +41,27 @@
           <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
           <td>∞</td>
         </tr>
+        <tr>
+        <th scope="row">310426</th>
+        <td>Richard</td>
+        <td>RiDiCage</td>
+        <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
+        <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
+        <td>∞</td>
+      </tr>
     <tr>
-<<<<<<< HEAD
       <th scope="row">1</th>
       <td>Robin</td>
       <td>J3wellZ</td>
       <td>picture m8</td>
       <td><a href="./robin_J3wellZ.php">mijn homepage</a></td>
       <td>10+</td>
-=======
       <th scope="row">320656</th>
       <td>Dirk</td>
       <td>dirkvansoest</td>
       <td><img src="img\slaap.png" width="35px" height="35px"></td>
       <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
       <td>20</td>
->>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
     </tr>
   </tbody>
 </table>
