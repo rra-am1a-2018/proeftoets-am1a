@@ -33,8 +33,34 @@
       <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
       <td>10+</td>
     </tr>
+        <tr>
+          <th scope="row">322085</th>
+          <td>Wob</td>
+          <td>Fatpike</td>
+          <td><img src="./img/FatpikeAvatar.png" height="40px" width="40px"></td>
+          <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
+          <td>∞</td>
+        </tr>
+    <tr>
+<<<<<<< HEAD
+      <th scope="row">1</th>
+      <td>Robin</td>
+      <td>J3wellZ</td>
+      <td>picture m8</td>
+      <td><a href="./robin_J3wellZ.php">mijn homepage</a></td>
+      <td>10+</td>
+=======
+      <th scope="row">320656</th>
+      <td>Dirk</td>
+      <td>dirkvansoest</td>
+      <td><img src="img\slaap.png" width="35px" height="35px"></td>
+      <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
+      <td>20</td>
+>>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
+    </tr>
   </tbody>
 </table>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -50,3 +76,25 @@
 
 
 
+<<<<<<< HEAD
+<?php
+  echo "Hallo Git World!";
+  echo "Dit is nieuwe code voor de tweede commit";
+  echo "Dit is de derde commit";
+  echo "Dit wordt de vijfde commit";
+  echo "Dit is de zevende commit";
+  echo "Dit is de achtste commit";
+  echo "Dit is de negende commit";
+  echo "Dit is de tiende commit";
+  echo "Dit is de elfde commit";
+  echo "Dit is de twaalfde commit";
+  echo "Dit is de dertiende commit";
+  echo "Dit is de veertiende commit";
+
+  echo "Dit is een vijftiende commit";
+  echo "Dit is de zestiende commit";
+  echo "Pull request";
+  echo "Test";
+?>
+=======
+>>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
