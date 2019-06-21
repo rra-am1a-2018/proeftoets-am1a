@@ -41,10 +41,11 @@
                     <td>van de</td>
                     <td>Kooij</td>
                     <td>Muziek maken</td>
-                    <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="100%" /></td>
+                    <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="5%" /></td>
                 </tr>
             </tbody>
         </table>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
