@@ -16,7 +16,7 @@
                 <td>...</td>
                 <td>Giskes</td>
                 <td>Avatar the Last Airbender</td>
-                <td></td>
+                <td><img src="./img/avatar.png" alt="kataang"></td>
             </tr>
         </tbody>
     </table>
