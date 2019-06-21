@@ -17,10 +17,22 @@
         zie alleen jouw eigen commits
         git log --online --author="Richard"
 
+        maak een nieuwe branch
         git checkout -b tijdreis_richard
 
+        kijk in welke branch je zit
         git branch
 
+        show de branches online
+        git remote show origin
+
+        show branch
+        git branch
+
+        ga naar master branch
+        git checkout master
+
+        branch gooi je online op github
         git push -u orgin tijdreis_richard
     ';
     */
