@@ -39,7 +39,6 @@
 
                     <tbody>
                         <tr>
-                            <th scope="row">1</th>
                             <td>Iwan</td>
                             <td>van der</td>
                             <td>Wal</td>
