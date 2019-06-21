@@ -17,3 +17,8 @@ img {
 button {
     margin: 25px;
 }
+
+table {
+    text-align: left;
+    float: left;
+}
