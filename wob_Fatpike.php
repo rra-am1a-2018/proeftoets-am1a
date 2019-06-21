@@ -30,6 +30,8 @@
           <td>Mark</td>
           <td>Otto</td>
           <td>@mdo</td>
+          <td>@mdo</td>
+          <td>@mdo</td>
         </tr>
       </tbody>
     </table>
