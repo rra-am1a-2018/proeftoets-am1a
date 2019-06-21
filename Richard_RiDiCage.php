@@ -23,38 +23,34 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Hello, world!</title>
+    <style>
+    
+    </style>
   </head>
   <body>
+    <div class="container">
         <table class="table table-dark">
             <thead>
                 <tr>
-                <th scope="col">#</th>
-                <th scope="col">First</th>
-                <th scope="col">Last</th>
-                <th scope="col">Handle</th>
+                    <th scope="col">Voornaam</th>
+                    <th scope="col">Tussenvoegsel</th>
+                    <th scope="col">Achternaam</th>
+                    <th scope="col">Hobby</th>
+                    <th scope="col">Avatar</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                </tr>
-                <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                </tr>
-                <tr>
-                    <th scope="row">3</th>
-                    <td>Larry</td>
-                    <td>the Bird</td>
-                    <td>@twitter</td>
+                <th scope="row">Richard</th>
+                    <td>van de</td>
+                    <td>Kooij</td>
+                    <td>Muziek maken</td>
+                    <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="5%" /></td>
                 </tr>
             </tbody>
         </table>
+    </div>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
