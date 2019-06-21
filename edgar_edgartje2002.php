@@ -14,8 +14,8 @@
       <td>niks</td>
       <img src="./img/steen.jpg" />
     </tr>
-       </tr>
-       <a class="btn btn-primary" href="./index.php" role="button">index</a>
+    <a class="btn btn-primary" href="./index.php" role="button">index</a>
     
+    </tr>
   </tbody>
 </table>
