@@ -52,7 +52,7 @@
             </tbody>
         </table>
         
-        <button type="button" class="btn btn-secondary btn-lg">Secondary</button>
+        <button type="button" class="btn btn-secondary btn-link">Go back to Index</button>
     </div>
 
 
