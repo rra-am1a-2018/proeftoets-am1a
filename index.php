@@ -10,7 +10,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 =======
+<<<<<<< HEAD
 >>>>>>> 9156d3d22d3aa12431f9a652aedc6800c996197d
+=======
+>>>>>>> 463da42e385ada26bda68bc2f0ce28d79b60d8de
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
 
 <head>
   <!-- Required meta tags -->
@@ -19,6 +23,7 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<<<<<<< HEAD
 
 <<<<<<< HEAD
     <table class="table table-hover">
@@ -42,6 +47,19 @@
       <td>10+</td>
     </tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <tr>
+      <th scope="row">1</th>
+      <td>Sven</td>
+      <td>WebDevSven</td>
+      <td><img src="./img/Arthur_Morgan.jpg" height="50px" width="50px"></td>
+      <td><a href="./sven_webdevsven.php">mijn homepage</a></td>
+      <td>10+</td>
+      </tr>
+=======
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
         <tr>
           <th scope="row">322085</th>
           <td>Wob</td>
@@ -50,8 +68,11 @@
           <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
           <td>∞</td>
         </tr>
+<<<<<<< HEAD
     <tr>
 <<<<<<< HEAD
+=======
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
 =======
     <tr>
       <th scope="row">322085</th>
@@ -61,14 +82,20 @@
       <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
       <td>∞</td>
     </tr>
+<<<<<<< HEAD
     <tr>
 >>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
+=======
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
+    <tr>
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
       <th scope="row">1</th>
       <td>Robin</td>
       <td>J3wellZ</td>
       <td>picture m8</td>
       <td><a href="./robin_J3wellZ.php">mijn homepage</a></td>
       <td>10+</td>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
       <th scope="row">320656</th>
@@ -85,6 +112,8 @@
       <td><a href="edgar-edgartje2002.php">mijn homepage</a></td>
       <td>20</td>
 =======
+=======
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
     <tr>
       <th scope="row">320656</th>
       <td>Dirk</td>
@@ -92,14 +121,29 @@
       <td><img src="img\slaap.png" width="50px" height="50px"></td>
       <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
       <td>20</td>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2ce1adaea10fb0425f2a8cdc1301565ed639910d
+=======
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
 >>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
     </tr>
   </tbody>
 </table>
 =======
+<<<<<<< HEAD
   <title>Hello, world!</title>
 </head>
 >>>>>>> 9156d3d22d3aa12431f9a652aedc6800c996197d
+=======
+=======
+  <link rel="stylesheet" type="text/css" href="style.css">
+>>>>>>> e5bf97266b5fa2755749230f9283b00c0ed7ab24
+  <title>Hello, world!</title>
+</head>
+>>>>>>> 463da42e385ada26bda68bc2f0ce28d79b60d8de
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
 
 <body>
   <h1>Proeftoets-AM1A</h1>
@@ -130,6 +174,7 @@
         <td>OGiskes/td>
         <td><img src="./img/avatar.png" alt="kataang"></td>
         <td><a href="./Olivier.OGiskes.php">mijn homepage</td>
+        <td>10+</td>
       </tr>
       <tr>
         <th scope="row">322085</th>
@@ -183,7 +228,11 @@
   </body>
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 >>>>>>> cbd234d4966f1cad74fab6c32ceea5683cfec7f7
+=======
+>>>>>>> e5bf97266b5fa2755749230f9283b00c0ed7ab24
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
 </html>
 
 
@@ -220,7 +269,11 @@
 <head>
 =======
 <<<<<<< HEAD <head>
+<<<<<<< HEAD
 >>>>>>> cbd234d4966f1cad74fab6c32ceea5683cfec7f7
+=======
+>>>>>>> e5bf97266b5fa2755749230f9283b00c0ed7ab24
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -256,6 +309,7 @@
         <td>10+</td>
       </tr>
       <tr>
+<<<<<<< HEAD
         <th scope="row">320656</th>
         <td>Dirk</td>
         <td>dirkvansoest</td>
@@ -374,6 +428,8 @@
         <td>10+</td>
       </tr>
       <tr>
+=======
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
         <th scope="row">322085</th>
         <td>Wob</td>
         <td>Fatpike</td>
@@ -388,6 +444,10 @@
         <td>picture m8</td>
         <td><a href="./robin_J3wellZ.php">mijn homepage</a></td>
         <td>10+</td>
+<<<<<<< HEAD
+=======
+      </tr>
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
       <tr>
         <th scope="row">320656</th>
         <td>Dirk</td>
@@ -399,7 +459,11 @@
       <tr>
         <th scope="row">326650</th>
         <td>Iwan</td>
+<<<<<<< HEAD
         <td>IJuanTM/td>
+=======
+        <td>IJuanTM</td>
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
         <td><img src="./img/IJuanTM.png" width="40px" height="40px;"></td>
         <td><a href="./Iwan_IJuanTM.php">Naar Iwan's Site</a></td>
         <td>11+</td>
@@ -407,6 +471,7 @@
     </tbody>
   </table>
 
+<<<<<<< HEAD
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -418,11 +483,42 @@
 </html>
 >>>>>>> 0cac2aa25f32847c5936bceab08509ebbb59366e
 =======
+</body>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+>>>>>>> 11f770a94849162539f826c60f4a8262ad04b3eb
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
+=======
 </html>
 >>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
 =======
 </html>
+<<<<<<< HEAD
 >>>>>>> 9156d3d22d3aa12431f9a652aedc6800c996197d
+=======
+>>>>>>> 463da42e385ada26bda68bc2f0ce28d79b60d8de
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
 =======
   </head>
 
@@ -530,4 +626,8 @@
 =======
 </html>
 >>>>>>> 11f770a94849162539f826c60f4a8262ad04b3eb
+<<<<<<< HEAD
 >>>>>>> cbd234d4966f1cad74fab6c32ceea5683cfec7f7
+=======
+>>>>>>> e5bf97266b5fa2755749230f9283b00c0ed7ab24
+>>>>>>> 94a0d2e3d38dbabe7f86faa2db18c9676b81688f
