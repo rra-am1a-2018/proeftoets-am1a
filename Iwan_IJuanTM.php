@@ -43,6 +43,8 @@
                             <td>Iwan</td>
                             <td>van der</td>
                             <td>Wal</td>
+                            <td>Computeren</td>
+                            <td><img src="./img/IJuanTM.png"></td>
                         </tr>
                     </tbody>
 
