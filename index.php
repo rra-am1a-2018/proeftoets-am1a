@@ -47,7 +47,7 @@
     <tr>
       <th scope="row">1</th>
       <td>Sven</td>
-      <td>WebDevSven</td>
+      <td>WebDevSven</td> 
       <td><img src="./img/Arthur_Morgan.jpg" height="50px" width="50px"></td>
       <td><a href="./sven_webdevsven.php">mijn homepage</a></td>
       <td>10+</td>
