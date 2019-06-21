@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
   <head>
@@ -34,8 +33,17 @@
       <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
       <td>10+</td>
     </tr>
+        <tr>
+          <th scope="row">322085</th>
+          <td>Wob</td>
+          <td>Fatpike</td>
+          <td><img src="./img/FatpikeAvatar.png" height="40px" width="40px"></td>
+          <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
+          <td>∞</td>
+        </tr>
   </tbody>
 </table>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -51,7 +59,6 @@
 
 
 
-=======
 <?php
   echo "Hallo Git World!";
   echo "Dit is nieuwe code voor de tweede commit";
@@ -71,4 +78,3 @@
   echo "Pull request";
   echo "Test";
 ?>
->>>>>>> b3b4ac5320567ce145d6da0e2d91a1ea64d2bb73
