@@ -25,6 +25,10 @@ echo "1 grote vuurbal jonge";
             <td>Infix:</td>
             <td>v.d.</td>
         </tr>
+        <tr>
+            <td>Lastname:</td>
+            <td>Hoeven</td>
+        </tr>
     </tbody>
 </table>
 </body>
