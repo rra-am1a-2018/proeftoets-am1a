@@ -51,6 +51,16 @@
                     <td>Muziek maken</td>
                     <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="25px" /></td>
                 </tr>
+                <!--
+                    <tr>
+                        <th scope="row">310426</th>
+                        <td>Richard</td>
+                        <td>RiDiCage</td>
+                        <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
+                        <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
+                        <th>∞</th>
+                    </tr>
+                -->
             </tbody>
         </table>
         <a class="btn btn-secondary" href="./index.php" role="button">Go back to Index</a>
