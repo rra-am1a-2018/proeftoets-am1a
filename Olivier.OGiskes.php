@@ -13,7 +13,7 @@
         <tbody>
             <tr>
                 <td>Olivier</td>
-                <td></td>
+                <td>...</td>
                 <td></td>
                 <td></td>
                 <td></td>
