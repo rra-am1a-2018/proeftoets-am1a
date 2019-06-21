@@ -1,2 +1,2 @@
-Ik heb aids 
+Ik heb zin in een goed cijfer voor mijn toets 
 oke
