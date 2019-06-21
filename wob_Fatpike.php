@@ -35,7 +35,7 @@
       </tbody>
     </table>
 
-    <a class="btn btn-primary" href="index.php" role="button">Ga terug!</a>
+    <a class="btn btn-outline-dark btn-lg btn-block" href="index.php" role="button">Ga terug!</a>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
