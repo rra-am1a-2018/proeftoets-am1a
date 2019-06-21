@@ -22,7 +22,7 @@
       <td>Mansour</td>
       <td>Ndiaye</td>
       <td>Basketballen</td>
-      <td></td>
+      <td><<img src="https://avatars1.githubusercontent.com/u/45031142?s=460&v=4"></td>
     </tr>
     
   </tbody>
