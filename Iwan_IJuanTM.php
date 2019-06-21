@@ -44,6 +44,13 @@
                                 <td>Computeren</td>
                                 <td><img src="./img/IJuanTM.png"></td>
                             </tr>
+                            <tr>
+                                <td>Henk</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td><img src="./img/"></td>
+                            </tr>
                         </tbody>
 
                     </table>
