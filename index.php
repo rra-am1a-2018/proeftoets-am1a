@@ -129,6 +129,7 @@
         <td>OGiskes/td>
         <td><img src="./img/avatar.png" alt="kataang"></td>
         <td><a href="./Olivier.OGiskes.php">mijn homepage</td>
+        <td>10+</td>
       </tr>
       <tr>
         <th scope="row">322085</th>
