@@ -45,8 +45,8 @@
       <th scope="row">320656</th>
       <td>Dirk</td>
       <td>dirkvansoest</td>
-      <td>plaatje</td>
-      <td><a href=".\img\slaap.png">mijn homepage</a></td>
+      <td><img src="img\slaap.png" width="50px" height="50px"></td>
+      <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
       <td>20</td>
 >>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
     </tr>
