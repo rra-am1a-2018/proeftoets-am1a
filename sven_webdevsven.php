@@ -11,7 +11,28 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Sven Oudakker</h1>
+
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Voornaam</th>
+      <th scope="col">Tussenvoegsel</th>
+      <th scope="col">Achternaam</th>
+      <th scope="col">Hobby</th>
+      <th scope="col">Avatar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Sven</th>
+      <td></td>
+      <td>Oudakker</td>
+      <td>gamen</td> 
+      <td>    </td>
+    </tr>
+  </tbody>
+</table>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

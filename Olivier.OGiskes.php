@@ -13,10 +13,10 @@
         <tbody>
             <tr>
                 <td>Olivier</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>...</td>
+                <td>Giskes</td>
+                <td>Avatar the Last Airbender</td>
+                <td><img src="./img/avatar.png" alt="kataang"></td>
             </tr>
         </tbody>
     </table>
