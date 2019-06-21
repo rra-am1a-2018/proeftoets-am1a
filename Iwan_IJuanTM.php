@@ -49,7 +49,7 @@
                                 <td>van</td>
                                 <td>Kaas</td>
                                 <td>Touwtje springen</td>
-                                <td><img src="./img/"></td>
+                                <td><img src="./img/Henk.jpg"></td>
                             </tr>
                         </tbody>
 
