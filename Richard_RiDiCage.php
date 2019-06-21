@@ -28,6 +28,7 @@
     </style>
   </head>
   <body>
+    <div class="container">
         <table class="table table-dark">
             <thead>
                 <tr>
@@ -48,6 +49,7 @@
                 </tr>
             </tbody>
         </table>
+    </div>
 
 
     <!-- Optional JavaScript -->
