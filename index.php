@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -35,6 +38,7 @@
       <td>10+</td>
     </tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <tr>
       <th scope="row">1</th>
       <td>Sven</td>
@@ -52,6 +56,16 @@
           <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
           <td>∞</td>
         </tr>
+=======
+    <tr>
+      <th scope="row">322085</th>
+      <td>Wob</td>
+      <td>Fatpike</td>
+      <td><img src="./img/FatpikeAvatar.png" height="40px" width="40px"></td>
+      <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
+      <td>∞</td>
+    </tr>
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
     <tr>
       <th scope="row">1</th>
       <td>Robin</td>
@@ -66,7 +80,10 @@
       <td><img src="img\slaap.png" width="50px" height="50px"></td>
       <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
       <td>20</td>
+<<<<<<< HEAD
 >>>>>>> 2ce1adaea10fb0425f2a8cdc1301565ed639910d
+=======
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
     </tr>
   </tbody>
 </table>
@@ -78,6 +95,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </body>
+<<<<<<< HEAD
 </html>
 
 
@@ -204,3 +222,6 @@
 
 </html>
 >>>>>>> 11f770a94849162539f826c60f4a8262ad04b3eb
+=======
+</html>
+>>>>>>> e8deeb7c22e5e170bcc72ae9bd28568c2b2b7c4b
