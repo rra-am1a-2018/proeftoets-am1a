@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<?php
+echo 'Leven doet pijn';
+?>
+=======
+>>>>>>> 23886a625dd7441ad88842fc9bd011501d87790d
 <!doctype html>
 <html lang="en">
 
@@ -63,6 +69,9 @@
     </div>
 
 
+<<<<<<< HEAD
+</html>
+=======
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -72,3 +81,4 @@
 </body>
 
 </html>
+>>>>>>> 23886a625dd7441ad88842fc9bd011501d87790d
