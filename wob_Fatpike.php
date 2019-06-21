@@ -26,15 +26,16 @@
       </thead>
       <tbody>
         <tr>
-          <th scope="row">1</th>
-          <td>Wob</td>
+          <th scope="row">Wob</th>
           <td></td>
           <td>Jelsma</td>
           <td>Van alles en nog wat</td>
-          <td><img src="./img/FatpikeAvatar.png"></td>
+          <td><img src="./img/FatpikeAvatar.png" height="35px" width="35px"></td>
         </tr>
       </tbody>
     </table>
+
+    <a class="btn btn-primary" href="index.php" role="button">Ga terug!</a>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
