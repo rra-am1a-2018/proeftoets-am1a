@@ -24,7 +24,9 @@
 
     <title>Hello, world!</title>
     <style>
-    
+        body{
+            background: rgb(20,20,20);
+        }
     </style>
   </head>
   <body>
