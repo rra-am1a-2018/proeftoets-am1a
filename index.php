@@ -146,6 +146,13 @@
         <td>10+</td>
       </tr>
       <tr>
+        <th scope="row">1</th>
+        <td>Olivier</td>
+        <td>OGiskes/td>
+        <td><img src="./img/avatar.png" alt="kataang"></td>
+        <td><a href="./Olivier.OGiskes.php">mijn homepage</td>
+      </tr>
+      <tr>
         <th scope="row">322085</th>
         <td>Wob</td>
         <td>Fatpike</td>
@@ -168,6 +175,14 @@
         <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
         <td>20</td>
       </tr>
+      <tr>
+        <th scope="row">326650</th>
+        <td>Iwan</td>
+        <td>IJuanTM/td>
+        <td><img src="./img/IJuanTM.png" width="40px" height="40px;"></td>
+        <td><a href="./Iwan_IJuanTM.php">Naar Iwan's Site</a></td>
+        <td>11+</td>
+      </tr>
     </tbody>
   </table>
 
@@ -179,6 +194,7 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 
+<<<<<<< HEAD
 </html>
 
 
@@ -299,3 +315,6 @@
                 echo "Test";
                 ?>=======>>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
     >>>>>>> 2ce1adaea10fb0425f2a8cdc1301565ed639910d
+=======
+</html>
+>>>>>>> 11f770a94849162539f826c60f4a8262ad04b3eb
