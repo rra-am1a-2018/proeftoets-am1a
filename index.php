@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
   <head>
@@ -34,6 +33,7 @@
       <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
       <td>10+</td>
     </tr>
+<<<<<<< HEAD
     <tr>
       <th scope="row">1</th>
       <td>Sven</td>
@@ -41,9 +41,34 @@
       <td><img src="./img/Arthur_Morgan.jpg"></td>
       <td><a href="./sven_webdevsven.php">mijn homepage</a></td>
       <td>10+</td>
+=======
+        <tr>
+          <th scope="row">322085</th>
+          <td>Wob</td>
+          <td>Fatpike</td>
+          <td><img src="./img/FatpikeAvatar.png" height="40px" width="40px"></td>
+          <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
+          <td>∞</td>
+        </tr>
+    <tr>
+      <th scope="row">1</th>
+      <td>Robin</td>
+      <td>J3wellZ</td>
+      <td>picture m8</td>
+      <td><a href="./robin_J3wellZ.php">mijn homepage</a></td>
+      <td>10+</td>
+    <tr>
+      <th scope="row">320656</th>
+      <td>Dirk</td>
+      <td>dirkvansoest</td>
+      <td><img src="img\slaap.png" width="50px" height="50px"></td>
+      <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
+      <td>20</td>
+>>>>>>> 2ce1adaea10fb0425f2a8cdc1301565ed639910d
     </tr>
   </tbody>
 </table>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -59,7 +84,7 @@
 
 
 
-=======
+<<<<<<< HEAD
 <?php
   echo "Hallo Git World!";
   echo "Dit is nieuwe code voor de tweede commit";
@@ -79,4 +104,5 @@
   echo "Pull request";
   echo "Test";
 ?>
->>>>>>> b3b4ac5320567ce145d6da0e2d91a1ea64d2bb73
+=======
+>>>>>>> f41de473e7661fc018d23767d2e217401a8f87b7
