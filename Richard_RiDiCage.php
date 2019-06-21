@@ -37,7 +37,11 @@
             </thead>
             <tbody>
                 <tr>
-
+                <th scope="row">Richard</th>
+                    <td>van de</td>
+                    <td>Kooij</td>
+                    <td>Muziek maken</td>
+                    <td></td>
                 </tr>
             </tbody>
         </table>
