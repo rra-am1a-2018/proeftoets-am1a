@@ -13,7 +13,7 @@ echo 'Leven doet pijn';
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="Iwan_IJuanTM.css">
+    <link rel="stylesheet" href="Iwan_IJuanTM.css">
 
     <title>Iwan's Kut Pagina</title>
 </head>
@@ -21,10 +21,43 @@ echo 'Leven doet pijn';
 <body>
 
     <div class="container">
-        <div class="col-12">
-            <h1>Hello There</h1>
+        <div class="row">
+            <div class="col-12">
+                <h1>Hello There</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+
+                <table class="table">
+
+                    <thead>
+                        <tr>
+                            <th scope="col">Voornaam</th>
+                            <th scope="col">Tussenvoegsel</th>
+                            <th scope="col">Achternaam</th>
+                            <th scope="col">Hobby</th>
+                            <th scope="col">Avatar</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Iwan</td>
+                            <td>van der</td>
+                            <td>Wal</td>
+                        </tr>
+                    </tbody>
+
+                </table>
+
+            </div>
         </div>
     </div>
+
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
