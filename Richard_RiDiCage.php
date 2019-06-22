@@ -17,10 +17,22 @@
         zie alleen jouw eigen commits
         git log --online --author="Richard"
 
+        maak een nieuwe branch
         git checkout -b tijdreis_richard
 
+        kijk in welke branch je zit
         git branch
 
+        show de branches online
+        git remote show origin
+
+        show branch
+        git branch
+
+        ga naar master branch
+        git checkout master
+
+        deze branch gooi je online op github (dan moet je niet in deze branch zitten bij het aanmaken)
         git push -u orgin tijdreis_richard
     ';
     */
@@ -38,13 +50,14 @@
     <style>
         body{
             background: rgb(20,20,20);
+            color: gold;
         }
 
     </style>
   </head>
   <body>
     <div class="container">
-        <h1>Richard</h1>
+        <h1>Proef toets van: Richard</h1>
         <table class="table table-dark">
             <thead>
                 <tr>
@@ -70,7 +83,7 @@
                         <td>RiDiCage</td>
                         <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
                         <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
-                        <th>∞</th>
+                        <td><b><span>∞</span></b></td>
                     </tr>
                 -->
             </tbody>
