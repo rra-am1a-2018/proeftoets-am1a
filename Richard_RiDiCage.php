@@ -82,7 +82,7 @@
                         <td>RiDiCage</td>
                         <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
                         <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
-                        <th>∞</th>
+                        <td><b><span>∞</span></b></td>
                     </tr>
                 -->
             </tbody>

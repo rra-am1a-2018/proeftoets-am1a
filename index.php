@@ -35,12 +35,12 @@
 
             <tbody>
                 <tr>
-                    <th scope="row">1</th>
+                    <th scope="row">RRA</th>
                     <td>Arjan</td>
                     <td>rra-am1a-2018</td>
                     <td><img src="./img/40x40.svg" width="40px" height="40px" /></td>
                     <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
-                    <td>10</td>
+                    <td>~</td>
                 </tr>
 
 
@@ -70,7 +70,7 @@
                     <td>J3wellZ</td>
                     <td><img src="./img/robin.jpg" width="40px" height="40px" /></td>
                     <td><a href="./robin_J3wellZ.php">mijn homepage</a></td>
-                    <td>10+</td>
+                    <td>~</td>
                 </tr>
 
 
@@ -80,7 +80,7 @@
                     <td>DirkvanSoest</td>
                     <td><img src="./img/slaap.png" width="40px" height="40px" /></td>
                     <td><a href="dirk_dirkvansoest.php">mijn homepage</a></td>
-                    <td>20</td>
+                    <td>~</td>
                 </tr>
 
 
@@ -90,7 +90,7 @@
                     <td>IJuanTM</td>
                     <td><img src="./img/IJuanTM.png" width="40px" height="40px" /></td>
                     <td><a href="./Iwan_IJuanTM.php">Naar Iwan's Site</a></td>
-                    <td>11+</td>
+                    <td>~</td>
                 </tr>
 
 
@@ -100,7 +100,7 @@
                     <td>WebDevSven</td> 
                     <td><img src="./img/a.jpg" width="40px" height="40px" /></td>
                     <td><a href="./sven_webdevsven.php">mijn homepage</a></td>
-                    <td>10+</td>
+                    <td>~</td>
                 </tr>
 
 
@@ -110,7 +110,47 @@
                     <td>JordyLegemaat</td> 
                     <td><img src="./img/steen.jpg" width="40px" height="40px" /></td>
                     <td><a href="./jordy_jordylegemaat.php">mijn homepage</a></td>
-                    <td>10+</td>
+                    <td>~</td>
+                </tr>
+
+
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Collin</td>
+                    <td>CollinMarkus</td> 
+                    <td><img src="./img/40x40.svg" width="40px" height="40px" /></td>
+                    <td><a href="./collin_CollinMarkus.php">mijn homepage</a></td>
+                    <td>~</td>
+                </tr>
+
+
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Edgar</td>
+                    <td>edgartje2002</td> 
+                    <td><img src="./img/40x40.svg" width="40px" height="40px" /></td>
+                    <td><a href="./edgar_edgartje2002.php">mijn homepage</a></td>
+                    <td>~</td>
+                </tr>
+
+
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Mohamed</td>
+                    <td>MohamedNNdiaye</td> 
+                    <td><img src="./img/40x40.svg" width="40px" height="40px" /></td>
+                    <td><a href="./mohamed_mohamednndiaye.php">mijn homepage</a></td>
+                    <td>~</td>
+                </tr>
+
+
+                <tr>
+                    <th scope="row">1</th>
+                    <td>Olivier</td>
+                    <td>OGiskes</td> 
+                    <td><img src="./img/avatar.png" width="40px" height="40px" /></td>
+                    <td><a href="./Olivier.OGiskes.php">mijn homepage</a></td>
+                    <td>~</td>
                 </tr>
             </tbody>
         </table>
