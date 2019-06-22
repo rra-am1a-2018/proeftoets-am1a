@@ -11,6 +11,10 @@
         <title>Proeftoets - AM1A</title>
 
         <style>
+            body {
+                background: #202020;
+                color: gold;
+            }
             span{
                 font-size:30px;
             }
@@ -20,7 +24,7 @@
 
         <h1>Proeftoets - AM1A</h1>
 
-        <table class="table table-hover">
+        <table class="table table-hover table-dark">
             <thead>
                 <tr>
                     <th scope="col">llnr</th>
