@@ -38,7 +38,7 @@
                     <th scope="row">1</th>
                     <td>Arjan</td>
                     <td>rra-am1a-2018</td>
-                    <td><img src="./img/a.jpg" width="40px" height="40px" /></td>
+                    <td><img src="./img/40x40.svg" width="40px" height="40px" /></td>
                     <td><a href="./arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10</td>
                 </tr>
