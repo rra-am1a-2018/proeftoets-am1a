@@ -32,7 +32,7 @@
         ga naar master branch
         git checkout master
 
-        branch gooi je online op github
+        deze branch gooi je online op github (dan moet je niet in deze branch zitten bij het aanmaken)
         git push -u orgin tijdreis_richard
     ';
     */
