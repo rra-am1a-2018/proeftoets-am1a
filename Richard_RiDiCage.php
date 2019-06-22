@@ -50,13 +50,14 @@
     <style>
         body{
             background: rgb(20,20,20);
+            color: gold;
         }
 
     </style>
   </head>
   <body>
     <div class="container">
-        <h1>Richard</h1>
+        <h1>Proef toets van: Richard</h1>
         <table class="table table-dark">
             <thead>
                 <tr>

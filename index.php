@@ -50,7 +50,7 @@
                     <td>Fatpike</td>
                     <td><img src="./img/FatpikeAvatar.png" width="40px" height="40px" /></td>
                     <td><a href="./wob_Fatpike.php">mijn homepage</a></td>
-                    <td>∞</td>
+                    <td>~</td>
                 </tr>
 
 
@@ -59,8 +59,8 @@
                     <td>Richard</td>
                     <td>RiDiCage</td>
                     <td><img src="https://ridis.nl/img/logo/RidisXL.svg" width="40px" height="40px" /></td>
-                    <td><a href="./Richard_RiDiCage.php">Richard_RiDiCage.php</a></td>
-                    <td><b><span>∞</span></b></td>
+                    <td><a href="./Richard_RiDiCage.php">mijn homepage</a></td>
+                    <td>~</td>
                 </tr>
 
 
@@ -89,7 +89,7 @@
                     <td>Iwan</td>
                     <td>IJuanTM</td>
                     <td><img src="./img/IJuanTM.png" width="40px" height="40px" /></td>
-                    <td><a href="./Iwan_IJuanTM.php">Naar Iwan's Site</a></td>
+                    <td><a href="./Iwan_IJuanTM.php">mijn homepage</a></td>
                     <td>~</td>
                 </tr>
 
